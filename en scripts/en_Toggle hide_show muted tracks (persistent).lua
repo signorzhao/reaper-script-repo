@@ -1,6 +1,6 @@
 -- @description Toggle hide/show muted or fully-muted-item tracks (persistent)
 -- @version 2.0
--- @author GPT
+-- @author GPT 4o
 -- @about Hides muted tracks or tracks whose items are all muted, and remembers state even after REAPER is closed.
 
 local EXT_SECTION = "ToggleMutedTrackHider"
