@@ -6,7 +6,7 @@
   <category name="Utility">
     <reapack name="en_Toggle hide_show muted tracks (persistent).lua" type="script" desc="Toggle hide_show muted tracks">
      <version name="0.1" author="enz" time="08-06-2025">
-        <source main="main">https://github.com/signorzhao/reaper-script-repo/raw/refs/heads/main/en%20scripts/en_Toggle%20hide_show%20muted%20tracks%20(persistent).lua%20%20.lua</source>
+        <source main="main">https://github.com/signorzhao/reaper-script-repo/raw/refs/heads/main/en%20scripts/en_Toggle%20hide_show%20muted%20tracks%20(persistent).lua</source>
       </version>
     </reapack>
   </category>
