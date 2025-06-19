@@ -1,0 +1,23 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1.0" name="enz">
+
+  <!-- Scripts -->
+  <category name="Utility">
+    <reapack name="en_Toggle hide_show muted tracks (persistent).lua" type="script" desc="Toggle hide_show muted tracks">
+     <version name="0.1" author="enz" time="08-06-2025">
+        <source main="main">https://github.com/signorzhao/reaper-script-repo/raw/refs/heads/main/en%20scripts/en_Toggle%20hide_show%20muted%20tracks%20(persistent).lua%20%20.lua</source>
+      </version>
+    </reapack>
+  </category>
+
+  <!-- Effects -->
+  <category name="sub folder name here">
+    <reapack name="script name" type="effect" desc="script name">
+      <version name="1.0" author="your name here" time="08-06-2025">
+        <source main="main">paste raw link here</source>
+      </version>
+    </reapack>
+  </category>
+
+</index>
